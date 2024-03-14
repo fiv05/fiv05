@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**fiv05/fiv05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Everton Silva Ferreira
+Passionate developer, seeking constant evolution and innovative solutions. Exploring the realms of technology, one line of code at a time. Building a future of endless possibilities.
 
-Here are some ideas to get you started:
+## Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/everton-silva-ferreira-80bb67227/)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:evertonfaiv@gmail.com)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+5537998361331)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?&style=for-the-badge&logo=kotlin&logoColor=white)
+
+
+## Github Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Everton&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
+
+
+
+ ![Snake animation](https://github.com/fiv05/fiv05/blob/output/github-contribution-grid-snake.svg)
