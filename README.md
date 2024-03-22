@@ -17,5 +17,7 @@ Passionate developer, seeking constant evolution and innovative solutions. Explo
 ## Github Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Everton&theme=transparent&bg_color=#FFB6C1border_color=#FFB6C1&show_icons=true&icon_color=30A3DC&title_color=#FFB6C1&text_color=FFF)
 
+
+
 ![Snake animation](https://github.com/fiv05/fiv05/blob/output/github-contribution-grid-snake.svg)
 
