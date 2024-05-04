@@ -19,5 +19,3 @@ Passionate developer, seeking constant evolution and innovative solutions. Explo
 
 
 
-![Snake animation](https://github.com/fiv05/fiv05/blob/output/github-contribution-grid-snake.svg)
-
